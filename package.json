@@ -1,6 +1,6 @@
 {
   "name": "castcloud",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Node.js implementation of the Castcloud API",
   "main": "index.js",
   "bin": "./bin/run.js",
