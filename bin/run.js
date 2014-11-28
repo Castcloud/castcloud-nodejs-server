@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
-var castcloud = require('../lib/castcloud');
-
-castcloud(process.argv[2] || 3000);
+require('../lib/castcloud')({
+	port: process.argv[2],
+	db: process.argv[3]
+});
