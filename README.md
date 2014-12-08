@@ -6,7 +6,7 @@ Node.js implementation of the Castcloud API
 
 ```sh
 npm install castcloud -g
-castcloud [port] [db]
+castcloud [port]
 ```
 
 ## Programmatic Usage
