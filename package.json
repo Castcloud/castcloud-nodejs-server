@@ -6,7 +6,7 @@
   "bin": "./bin/run.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Castcloud/node-castcloud.git"
+    "url": "https://github.com/Castcloud/castcloud-nodejs-server.git"
   },
   "keywords": [
     "podcast",
@@ -16,9 +16,9 @@
   "author": "Ken-Håvard Lieng",
   "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/Castcloud/node-castcloud/issues"
+    "url": "https://github.com/Castcloud/castcloud-nodejs-server/issues"
   },
-  "homepage": "https://github.com/Castcloud/node-castcloud",
+  "homepage": "https://github.com/Castcloud/castcloud-nodejs-server",
   "dependencies": {
     "express": "^4.10.4",
     "body-parser": "^1.9.3",
