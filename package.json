@@ -1,6 +1,6 @@
 {
   "name": "castcloud",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Node.js implementation of the Castcloud API",
   "main": "index.js",
   "bin": "./bin/run.js",
@@ -23,13 +23,12 @@
     "express": "^4.10.4",
     "body-parser": "^1.9.3",
     "request": "^2.48.0",
-    "xml2js": "^0.4.4",
-    "MD5": "^1.2.1",
-    "lodash": "~2.4.1",
     "cors": "~2.5.2",
-    "monk": "~0.9.1",
     "ejs": "~1.0.0",
     "bcrypt": "~0.8.0",
+    "lodash": "~2.4.1",
+    "node-expat": "~2.3.3",
+    "monk": "~0.9.1",
     "mongodb": "~1.4.22"
   }
 }
